@@ -1,4 +1,4 @@
-# tour_and_travel_mern
+
 # Tours & Travels Website
 
 This repository contains the source code for a Tours & Travels Website. This guide provides step-by-step instructions to deploy the project on an Nginx server with SSL.
